@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Asodariya</h1>
-<h3 align="center">Software Developer | MERN Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:gauravasodariya44@gmail.com">
@@ -17,42 +17,51 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing **MScIT** at DAIICT (2024 - 2026)
+🎓 MScIT Candidate at DAIICT (2024–2026) with a strong foundation in Software Engineering, Data Structures & Algorithms, DBMS, Operating Systems, and Computer Networks.
 
-💼 Software Developer Intern at **Crinet Technologies**
+💼 Software Developer Intern at Crinet Technologies, contributing to the development of scalable MERN Stack applications, RESTful APIs, and database-driven solutions.
 
-🌱 Currently learning **Advanced MERN Stack, System Design, and AI Integration**
+🚀 Experienced in building full-stack and AI-powered applications using React.js, Node.js, MongoDB, OpenAI APIs, and AWS.
 
-💡 Passionate about building **scalable web applications and AI-powered solutions**
+💡 Passionate about solving real-world problems through technology and developing high-performance, user-centric software solutions.
 
-🚀 Solved **450+ LeetCode problems**
+🏆 Solved 450+ LeetCode problems, strengthening problem-solving, analytical thinking, and coding skills.
 
-📫 Reach me at **gauravasodariya44@gmail.com**
+🌱 Currently exploring System Design, Cloud Computing, and AI-driven application development.
+
+📫 Reach me at: **gauravasodariya44@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered Job Matching Platform
-- AI-based candidate-job matching system
-- Resume parsing and skill extraction
-- OpenAI API integration
-- Recruiter & Job Seeker dashboards
 
-**Tech Stack:** React.js, Node.js, MongoDB, OpenAI API, AWS
+An intelligent recruitment platform that leverages AI to match candidates with suitable job opportunities based on skills, experience, and contextual understanding.
+
+#### Key Achievements
+- Developed an AI-driven job recommendation engine using OpenAI APIs.
+- Implemented resume parsing and automated skill extraction workflows.
+- Built secure role-based dashboards for recruiters and job seekers.
+- Designed scalable REST APIs and backend services for efficient data processing.
+- Improved candidate-job matching accuracy beyond traditional keyword-based approaches.
+
+**Tech Stack:** React.js • Node.js • MongoDB • OpenAI API • AWS
 
 ---
 
 ### ❤️ Annasetu
-- Donation management platform
-- NGO, Donor, and Volunteer collaboration
-- Secure role-based authentication
-- REST API architecture
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
+A full-stack donation management platform that connects NGOs, donors, and volunteers through a centralized and secure ecosystem.
 
----
+#### Key Achievements
+- Developed secure authentication and authorization using JWT.
+- Implemented role-based access control for NGOs, donors, and volunteers.
+- Built RESTful APIs for donation requests, scheduling, and activity tracking.
+- Enhanced transparency and collaboration within the donation management workflow.
+- Designed a scalable backend architecture to support future growth.
 
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -81,17 +90,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravasodariya&show_icons=true&locale=en&layout=compact" alt="gauravasodariya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravasodariya&show_icons=true&locale=en" alt="gauravasodariya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravasodariya&" alt="gauravasodariya" /></p>
-
----
 
 ## 🏆 Achievements
 
