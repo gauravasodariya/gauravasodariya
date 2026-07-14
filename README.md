@@ -25,7 +25,7 @@
 
 💡 Passionate about solving real-world problems through technology and developing high-performance, user-centric software solutions.
 
-🏆 Solved 450+ LeetCode problems, strengthening problem-solving, analytical thinking, and coding skills.
+🏆 Solved 500+ LeetCode problems, strengthening problem-solving, analytical thinking, and coding skills.
 
 🌱 Currently exploring System Design, Cloud Computing, and AI-driven application development.
 
@@ -34,6 +34,24 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🎤 MockHire AI
+
+A full-stack AI-powered mock interview platform that generates dynamic, resume-personalized interview questions and delivers instant AI feedback to help users practice and improve their interview skills.
+
+#### Key Achievements
+- Integrated OpenRouter (GPT-4o-mini) for AI-driven interview questions, resume parsing, and personalized feedback.
+- Implemented secure Google authentication via Firebase Auth with production-ready httpOnly, secure, sameSite cookies.
+- Built a credit-based usage system with Razorpay payment integration for purchasing interview credits.
+- Designed secure resume storage using AWS S3 with isolated IAM permissions.
+- Developed an admin dashboard for managing users, inquiries, and subscription plans.
+- Deployed a fully responsive, production-ready application (Vercel + Render).
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • OpenRouter API (LLM) • Firebase Auth • AWS S3 • Razorpay
+
+**🔗 Live Demo:** [mock-hire-ai-sigma.vercel.app](https://mock-hire-ai-sigma.vercel.app/) • **Code:** [GitHub](https://github.com/gauravasodariya/MockHire-AI)
+
+---
 
 ### 🤖 AI-Powered Job Matching Platform
 
@@ -47,6 +65,8 @@ An intelligent recruitment platform that leverages AI to match candidates with s
 - Improved candidate-job matching accuracy beyond traditional keyword-based approaches.
 
 **Tech Stack:** React.js • Node.js • MongoDB • OpenAI API • AWS
+
+**🔗 Live Demo:** [ai-powered-job-platform-frontend.vercel.app](https://ai-powered-job-platform-frontend.vercel.app/) • **Code:** [GitHub](https://github.com/gauravasodariya/AI-Powered-Job-Platform)
 
 ---
 
@@ -62,6 +82,11 @@ A full-stack donation management platform that connects NGOs, donors, and volunt
 - Designed a scalable backend architecture to support future growth.
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT
+
+**🔗 Live Demo:** [annasetu-frontend.vercel.app](https://annasetu-frontend.vercel.app/) • **Code:** [GitHub](https://github.com/gauravasodariya/annasetu)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -84,20 +109,24 @@ A full-stack donation management platform that connects NGOs, donors, and volunt
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
+### AI / LLM
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai)
+![LLM](https://img.shields.io/badge/LLM-8B5CF6?style=for-the-badge&logo=googlegemini)
+![NLP](https://img.shields.io/badge/NLP%20Basics-10B981?style=for-the-badge&logo=aiohttp)
+
 ### Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-
 ## 🏆 Achievements
 
-🏅 450+ LeetCode Problems Solved
+🏅 500+ LeetCode Problems Solved
 
 🏅 MERN Stack Developer
 
-🏅 Built AI-powered Full Stack Applications
+🏅 Built AI-powered Full Stack Applications (incl. MockHire AI, Job Matching Platform)
 
 🏅 Software Developer Intern at Crinet Technologies
 
