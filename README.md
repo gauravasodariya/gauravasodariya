@@ -49,7 +49,7 @@ A full-stack AI-powered mock interview platform that generates dynamic, resume-p
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • OpenRouter API (LLM) • Firebase Auth • AWS S3 • Razorpay
 
-**🔗 Live Demo:** [mock-hire-ai-sigma.vercel.app](https://mock-hire-ai-sigma.vercel.app/) • **Code:** [GitHub](https://github.com/gauravasodariya/MockHire-AI)
+**🔗 Live Demo:** [mock-hire-ai-seven.vercel.app](https://mock-hire-ai-seven.vercel.app/) • **Code:** [GitHub](https://github.com/gauravasodariya/MockHire-AI)
 
 ---
 
