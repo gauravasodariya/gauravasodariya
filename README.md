@@ -136,7 +136,9 @@ A full-stack donation management platform that connects NGOs, donors, and volunt
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravasodariya&theme=github-compact&hide_border=true" width="100%" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravasodariya&theme=github-dark&hide_border=true" width="70%" />
+</p>
 ### 💡 Quote
 
 "Code. Learn. Build. Repeat."
