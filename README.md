@@ -131,6 +131,16 @@ A full-stack donation management platform that connects NGOs, donors, and volunt
 🏅 Software Developer Intern at Crinet Technologies
 
 ---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravasodariya&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravasodariya&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravasodariya&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
 
 ### 💡 Quote
 
