@@ -131,7 +131,6 @@ A full-stack donation management platform that connects NGOs, donors, and volunt
 🏅 Software Developer Intern at Crinet Technologies
 
 ---
-## 📊 GitHub Activity
 
 ## 📊 GitHub Activity
 
