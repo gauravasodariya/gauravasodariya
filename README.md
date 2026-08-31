@@ -134,10 +134,8 @@ A full-stack donation management platform that connects NGOs, donors, and volunt
 
 ## 📊 GitHub Activity
 
-<img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gauravasodariya&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
+![GitHub Contribution Graph](https://ghchart.rshah.org/gauravasodariya)
+"GitHub Activity Graph"
   />
 
 💡 Quote
