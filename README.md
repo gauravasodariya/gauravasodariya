@@ -134,8 +134,7 @@ A full-stack donation management platform that connects NGOs, donors, and volunt
 
 ## 📊 GitHub Activity
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=gauravasodariya&theme=react-dark)
-]  />
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=gauravasodariya&theme=react-dark&hide_border=true&area=true&line=00E676&point=FFFFFF&area_color=00E676&custom_title=My%20GitHub%20Contribution%20Graph)
 
 💡 Quote
 Turning ideas into code, and code into solutions.
